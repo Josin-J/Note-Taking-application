@@ -1,4 +1,6 @@
-const API = '/api/notes';
+import { API_BASE } from './config';
+
+const API = `${API_BASE}/api/notes`;
 
 function headers(token) {
   return {

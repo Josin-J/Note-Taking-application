@@ -1,4 +1,6 @@
-const API = '/api/categories';
+import { API_BASE } from './config';
+
+const API = `${API_BASE}/api/categories`;
 
 function headers(token) {
   return {

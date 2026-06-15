@@ -2,6 +2,8 @@
 
 A full-stack note-taking application built with the **MERN stack** (MongoDB, Express, React, Node.js). Users can create, edit, search, and organize notes into categories with full authentication and per-user data isolation.
 
+**Demo:** [https://note-taking-application-eta-five.vercel.app/](https://note-taking-application-eta-five.vercel.app/)
+
 ## Features
 
 - **User Authentication** — Register, login, and JWT-based sessions (expires in 7 days)
